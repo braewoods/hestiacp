@@ -846,4 +846,8 @@ $LANG['de'] = array(
     'Reset 2FA' => 'Konto entsperren',
     '2FA Reset Code' => 'Kontowiederherstellungscode',
     'Invalid or missing token' => 'Ungültiger oder fehlender Kontowiederherstellungscode',  
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Senden Sie eine E-Mail-Benachrichtigung, wenn ein Update installiert wurde',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Speichern Sie das Update-Installationsprotokoll',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Senden Sie das Update-Installationsprotokoll per E-Mail',
 );

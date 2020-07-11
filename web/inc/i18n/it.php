@@ -847,4 +847,8 @@ $LANG['it'] = array(
     'Reset 2FA' => 'Reimposta il codice 2FA',
     '2FA Reset Code' => 'Codice di recupero dell\'account',
     'Invalid or missing token' => 'Codice non valido o mancante',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Invia notifica e-mail quando è stato installato un aggiornamento',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Salva il registro di installazione degli aggiornamenti',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Invia il registro di installazione degli aggiornamenti via e-mail',
 );

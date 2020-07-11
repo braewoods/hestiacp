@@ -856,4 +856,8 @@ $LANG['es'] = array(
     'Enable 2FA' => 'Habilitar autenticación de dos factores',
     'Please scan the code below in your 2FA application:' => 'Para terminar de configurar la autenticación de dos factores, escanee el código QR a continuación<br />usando una aplicación de autenticación (como <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Autenticador de Google</a>):',
     '2FA Reset Code:' => 'Código de recuperación de cuenta:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Enviar notificación por correo electrónico cuando se haya instalado una actualización',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Guardar registro de instalación de actualizaciones',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Enviar el registro de instalación de actualizaciones por correo electrónico',
 );

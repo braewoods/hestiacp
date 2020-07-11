@@ -859,4 +859,8 @@ $LANG['nl'] = array(
     'Enable 2FA' => 'Schakel tweefactorauthenticatie in',
     'Please scan the code below in your 2FA application:' => 'Scan de QR-code hieronder om het instellen van tweefactorauthenticatie te voltooien<br />met behulp van een authenticatie-app (zoals <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Google Authenticator</a>):',
     '2FA Reset Code:' => 'Accountherstelcode:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Stuur een e-mailmelding wanneer een update is geïnstalleerd',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Sla het updatelogboek op',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Stuur het updatelogboek per e-mail',
 );

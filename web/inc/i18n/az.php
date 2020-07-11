@@ -820,4 +820,8 @@ $LANG['az'] = array(
     'Enable 2FA' => 'İki faktorlu identifikasiyanı aktivləşdirin',
     'Please scan the code below in your 2FA application:' => 'İki faktorlu identifikasiyanı qurmağı başa çatdırmaq üçün aşağıdakı qr kodu yoxlayın <br /> bir identifikasiya tətbiqindən istifadə edərəkp (kimi <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Google Authenticator</a>):',
     '2FA Reset Code:' => 'Hesab bərpa kodu:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Yeniləmə quraşdırıldıqda e-poçt bildirişini göndərin',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Yeniləmə quraşdırma jurnalını qeyd edin',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Yeniləmə quraşdırma jurnalını elektron poçtla göndərin',
 );

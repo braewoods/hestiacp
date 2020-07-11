@@ -846,5 +846,9 @@ $LANG['bg'] = array(
     'Enable 2FA' => 'Активиране на двуфакторна автентификация',
     'Please scan the code below in your 2FA application:' => 'за да завършите настройката на двуфакторната автентификация, сканирайте QR кода по-долу <br /> с помощта на приложение за удостоверяване (като <a href = "https://play.google.com/store/apps/details?id=com"). google.android.apps.authenticator2 "> Google Удостоверител </a>):',
     '2FA Reset Code:' => 'Код за възстановяване на акаунта:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Известие по имейл, когато е инсталирана актуализация',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Запазете дневниците за актуализация',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Изпратете дневника за инсталиране на актуализацията по имейл',
 );
 

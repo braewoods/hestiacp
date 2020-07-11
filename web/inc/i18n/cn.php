@@ -861,4 +861,8 @@ $LANG['cn'] = array(
     'Enable 2FA' => '启用两因素身份验证',
     'Please scan the code below in your 2FA application:' => '要完成两因素身份验证的设置，请扫描以下QR码<br />使用身份验证应用程序，例如 <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Google身份验证器</a>):',
     '2FA Reset Code:' => '帐户恢复代码：',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => '安装更新后发送电子邮件通知',
+    'SYSTEM_UPGRADE_SAVE_LOG' => '保存更新安装日志',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => '通过电子邮件发送更新安装日志',
 );

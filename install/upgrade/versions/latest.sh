@@ -134,23 +134,6 @@ if [ "$WEB_SYSTEM" = "apache2" ]; then
     rm --force /etc/apache2/mods-enabled/status.conf # a2dismod will not remove the file if it isn't a symlink
 fi
 
-# Install File Manager during upgrade if environment variable oesn't already exist and isn't set to false
-# so that we don't override preference
-FILE_MANAGER_CHECK=$(cat $HESTIA/conf/hestia.conf | grep "FILE_MANAGER='false'")
-if [ -z "$FILE_MANAGER_CHECK" ]; then
-    if [ ! -e "$HESTIA/web/fm/configuration.php" ]; then
-        echo "[ ! ] Installing File Manager..."
-        # Install the File Manager
-        $HESTIA/bin/v-add-sys-filemanager quiet
-    else 
-        echo "[ * ] Updating File Manager configuration..."
-        # Update configuration.php
-        cp -f $HESTIA_INSTALL_DIR/filemanager/filegator/configuration.php $HESTIA/web/fm/configuration.php
-        # Set environment variable for interface
-        $HESTIA/bin/v-change-sys-config-value 'FILE_MANAGER' 'true'
-    fi
-fi
-
 # Enable nginx module loading
 if [ -f "/etc/nginx/nginx.conf" ]; then
     echo "[ * ] Updating NGINX configuration..."

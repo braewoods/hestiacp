@@ -856,4 +856,8 @@ $LANG['ar'] = array(
     'Enable 2FA' => 'تمكين المصادقة الثنائية',
     'Please scan the code below in your 2FA application:' => 'لإنهاء إعداد المصادقة ذات العاملين ، امسح رمز الاستجابة السريعة أدناه <br /> باستخدام تطبيق المصادقة (مثل <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Google Authenticator</a>):',
     '2FA Reset Code:' => 'رمز استرداد الحساب:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'إرسال إشعار بالبريد الإلكتروني عند تثبيت التحديث',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'احفظ سجل تثبيت التحديث',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'أرسل سجل تثبيت التحديث بالبريد الإلكتروني',
 );

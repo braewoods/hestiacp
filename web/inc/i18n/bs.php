@@ -848,4 +848,8 @@ $LANG['bs'] = array(
     'Enable 2FA' => 'Omogući dvofaktorsku provjeru identiteta',
     'Please scan the code below in your 2FA application:' => 'Da biste dovršili postavljanje dvofaktorske provjere autentičnosti, skenirajte QR kôd ispod <br /> pomoću autentifikacijske aplikacije (poput <a href = "https://play.google.com/store/apps/details?id=com" google.android.apps.authenticator2 "> Google Autentičar </a>):',
     '2FA Reset Code:' => 'Kôd za povrat računa:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Pošaljite obavijest e-poštom kada je ažuriranje instalirano',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Spremi dnevnik instalacije ažuriranja',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Pošaljite dnevnik instalacije ažuriranja e-poštom',
 );

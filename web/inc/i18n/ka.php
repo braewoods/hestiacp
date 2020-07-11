@@ -846,4 +846,8 @@ $LANG['ka'] = array(
     'Enable 2FA' => 'Enable two-factor authentication',
     'Please scan the code below in your 2FA application:' => 'To finish setting up two-factor authentication, scan the QR code below<br />using an authentication app (such as <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Google Authenticator</a>):',
     '2FA Reset Code:' => 'Account Recovery Code:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'ელ.ფოსტის გაგზავნის გაგზავნა გაგზავნისთანავე',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'შეინახეთ განახლების ინსტალაციის ჟურნალი',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'გაგზავნის განახლების ინსტალაციის ჟურნალი ელ.ფოსტით',
 );

@@ -851,4 +851,8 @@ $LANG['pl'] = array(
 
     'Force SSL/HTTPS' => 'Włącz automatyczne przekierowanie HTTP na HTTPS',
     'Enable SSL HSTS' => 'Włącz zabezpieczenia ścisłego transportu HTTP (HSTS) <a href="https://pl.wikipedia.org/wiki/HTTP_Strict_Transport_Security" target="_blank"><i class="fas fa-question-circle"></i></a>',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Wyślij powiadomienie e-mail, gdy aktualizacja zostanie zainstalowana',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Zapisz dziennik instalacji aktualizacji',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Wyślij dziennik instalacji aktualizacji pocztą e-mail',
 );

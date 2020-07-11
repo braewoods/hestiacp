@@ -851,4 +851,8 @@ $LANG['ru'] = array(
 
     'Force SSL/HTTPS' => 'Включить автоматическое перенаправление HTTP-HTTPS',
     'Enable SSL HSTS' => 'Включить HTTP Strict Transport Security (HSTS) <a href="https://ru.wikipedia.org/wiki/HTTP_Strict_Transport_Security" target="_blank"><i class="fas fa-question-circle"></i></a>',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Отправить уведомление по электронной почте, когда обновление было установлено',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Сохранить журнал установки обновлений',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Отправить журнал установки обновления по электронной почте',
 );

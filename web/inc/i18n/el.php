@@ -850,4 +850,8 @@ $LANG['el'] = array(
     'Enable 2FA' => 'Ενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων',
     'Please scan the code below in your 2FA application:' => 'Για να ολοκληρώσετε τη ρύθμιση ελέγχου ταυτότητας δύο παραγόντων, σαρώστε τον κωδικό QR παρακάτω<br />χρησιμοποιώντας μια εφαρμογή ελέγχου ταυτότητας (όπως <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Επαληθευτής Google</a>):',
     '2FA Reset Code:' => 'Κωδικός ανάκτησης λογαριασμού:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Αποστολή ειδοποίησης μέσω email όταν έχει εγκατασταθεί μια ενημέρωση',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Αποθήκευση αρχείου καταγραφής εγκατάστασης ενημέρωσης',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Αποστολή καταγραφής εγκατάστασης ενημέρωσης μέσω email',
 );

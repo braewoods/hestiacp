@@ -821,4 +821,8 @@ $LANG['ua'] = array(
     'Enable 2FA' => 'Включити ДФА',
     'Please scan the code below in your 2FA application:' => 'Щоб завершити налаштування ДФА, скануйте the QR код нижче<br />використовуючи відповідний додаток (наприклад <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Google Authenticator</a>):',
     '2FA Reset Code:' => 'Код скидання ДФА:',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Send email notification when an update has been installed',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Save update installation log',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Send update installation log by email',
 );
