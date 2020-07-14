@@ -1526,6 +1526,11 @@ div.l-content > div.l-separator:nth-of-type(4) {
   max-width: 135px;
 }
 
+.lang-bg .l-stat__col-title {
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
 .l-select:after {
   pointer-events: none;
   width: 7px;
