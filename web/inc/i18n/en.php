@@ -872,7 +872,7 @@ $LANG['en'] = array(
     '1 firewall rule' => '1 firewall rule',
     '%s firewall rules' => '%s firewall rules',
     //list ip
-    '1 IP address' => '1 IP address',
+    '1 banned IP address' => '1 banned IP address',
     '%s banned IP addresses' => '%s banned IP addresses', 
     //list DNS
     'Records_DNS' => 'Records',
