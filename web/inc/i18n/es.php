@@ -889,4 +889,7 @@ $LANG['es'] = array(
     'BACKUP_DOWNLOAD_SCHEDULED' => 'La descarga para copia de seguridad ha sido programada.',
     
     'backend server' =>  'Servidor de Backend',
+
+    'traffic' => 'Traffic',
+    'disk' => 'Disk',
 );
