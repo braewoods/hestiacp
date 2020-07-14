@@ -876,4 +876,7 @@ $LANG['en'] = array(
     '%s banned IP addresses' => '%s banned IP addresses', 
     //list DNS
     'Records_DNS' => 'Records',
+    //Dowload Backup
+    'BACKUP_DOWNLOAD_SCHEDULED' => 'Download for Backup has been scheduled.';
+    
 );
